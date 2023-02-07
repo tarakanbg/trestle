@@ -20,7 +20,7 @@ group :test do
 end
 
 gem 'haml'
-gem 'sassc-rails'
+# gem 'sassc-rails'
 gem 'sqlite3', '~> 1.4'
 
 # Specify your gem's dependencies in trestle.gemspec
