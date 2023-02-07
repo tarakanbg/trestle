@@ -1,4 +1,4 @@
-require "sprockets/railtie"
+# require "sprockets/railtie"
 
 module Trestle
   class Engine < ::Rails::Engine
